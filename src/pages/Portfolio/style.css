@@ -1,0 +1,104 @@
+.PortContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    background-color: #8ECAE6;
+    border-radius: 0px 0px 15px 15px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 0px;
+    padding-bottom: 100px;
+    bottom: 5px;
+}
+
+.PTitleContainer {
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #FB8500;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 15px 15px 0px 0px;
+    margin-top: 40px;
+
+}
+
+.PTitle {
+    color: black;
+    font-size: larger;
+    font-weight: 600;
+
+}
+
+.PContainer {
+    display: flex;
+    background-color: #219EBC;
+    margin-top: 50px;
+    border-radius: 10px 10px 10px 10px;
+    
+
+
+}
+
+.PCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    width:300px;
+    height:auto;
+    border-radius: 10px 10px 10px 10px;
+    position: relative;
+}
+
+.PCardTitle {
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 10px 10px 10px 10px;
+    font-weight: 800;
+    font-size: 20px;
+    color:#FFB703;
+}
+
+.PImage {
+    align-items: center;
+    width: auto;
+    height: 300px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: blue;
+}
+
+.DeployBtn {
+    justify-content: center;
+    text-decoration: none;
+    border-radius: 0px 0px 0px 0px;
+    padding: 5px;
+    width:auto;
+    background-color: #FFB703;
+    color:#023047;
+
+}
+.DeployBtn2 {
+    justify-content: center;
+    text-decoration: none;
+    border-radius: 0px 0px 10px 10px;
+    padding: 5px;
+    width:auto;
+    background-color: #FD9E02;
+    color:#023047;
+
+}
+
+.DeployBtn:hover {
+    background-color: #023047;
+    color:#8ECAE6;
+}
+.DeployBtn2:hover {
+    background-color:#023047;
+    color:#FFB703;
+}
+

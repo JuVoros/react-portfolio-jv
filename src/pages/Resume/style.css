@@ -1,0 +1,45 @@
+.RContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #8ECAE6;
+    border-radius: 15px 15px 15px 15px;
+    margin-bottom: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 50px;
+    padding-bottom: 5px;
+}
+
+.ResumeContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #8ECAE6;
+    border-radius: 15px 15px 15px 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 50px;
+    margin-bottom: 80px;
+    padding-bottom: 80px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.ResumeBtn {
+    text-decoration: none;
+    background-color: #FFB703;
+    color: #023047;
+    padding: 10px;
+    border-radius: 0px 0px 15px 15px;
+    width:auto;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.ResumeImage {
+    border-radius: 15px 15px 0px 0px;
+    
+}
