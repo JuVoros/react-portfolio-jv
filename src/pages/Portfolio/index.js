@@ -1,4 +1,10 @@
 import React from "react";
+import Cinder from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/Cinder.png";
+import Fitness from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/fitnessTracker.png";
+import Budget from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/jv-budget-tracker.herokuapp.com_.png";
+import scheduler from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/scheduler.png";
+import Notes from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/the-jv-note-taker.herokuapp.com_.png";
+import Recipe from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/recipebuilder.github.io_recipe-builder_.png";
 import "./style.css";
 
 const Portfolio = () => {

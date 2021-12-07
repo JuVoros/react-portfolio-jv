@@ -1,4 +1,7 @@
 import React from 'react';
+import Github from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/github.png";
+import Email from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/email.png";
+import Linked from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/linkedIn.png";
 import './style.css';
 
 const Contact= () => {
@@ -19,12 +22,12 @@ const Contact= () => {
             <section className="ResumeCard">
                 <h3 className="ContactTitle">Email</h3>
                 <img src={Email} alt="Email Logo"/>
-                <a href="mailto:JulianVoros@Hotmail.co," className="ContactBtn">JulianVoros@Hotmail.com</a>
+                <a href="mailto:JulianVoros@Hotmail.com," className="ContactBtn">JulianVoros@Hotmail.com</a>
             </section>
             <section className="PCard">
                 <h3 className="ContactTitle">linkedIn</h3>
                 <img src={Linked} alt="LinkedIn Logo"/>
-                <a href="mailto:JulianVoros@Hotmail.co," className="ContactBtn">Julian Voros</a>
+                <a href="https://www.linkedin.com/in/julian-voros-061b08217/" className="ContactBtn">Julian Voros</a>
             </section>
             </div>
             </div>
