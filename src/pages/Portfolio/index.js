@@ -1,5 +1,5 @@
 import React from "react";
-import Cinder from "/Users/juvoros/Code/Bootcamp/homework/react-portfolio/src/images/Cinder.png";
+import Cinder from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/Cinder.png";
 import Fitness from "/Users/juvoros/Code/Bootcamp/homework/react-portfolio/src/images/fitnessTracker.png";
 import Budget from "//Users/juvoros/Code/Bootcamp/homework/react-portfolio/src/images/jv-budget-tracker.herokuapp.com_.png";
 import scheduler from "/Users/juvoros/Code/Bootcamp/homework/react-portfolio/src/images/scheduler.png";
