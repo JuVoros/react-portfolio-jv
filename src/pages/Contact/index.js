@@ -1,7 +1,4 @@
 import React from 'react';
-import Github from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/github.png";
-import Email from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/email.png";
-import Linked from "/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/linkedIn.png";
 import './style.css';
 
 const Contact= () => {

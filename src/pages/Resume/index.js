@@ -1,5 +1,4 @@
 import React from 'react';
-import ResumeImg from '/Users/juvoros/Code/Bootcamp/react-portfolio-jv/src/images/Screen Shot 2021-11-23 at 9.22.07 PM.png'
 import './style.css';
 
 const Resume = () => {
