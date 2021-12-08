@@ -16,17 +16,17 @@ const Contact= () => {
         <div className="ContactContainer2">
             <section className="PCard">
                 <h3 className="ContactTitle">GitHub</h3>
-                <img src={Github} alt="GitHub Logo"/>
+                <img src="./images/github.png" alt="GitHub Logo"/>
                 <a href="https://github.com/JuVoros" className="ContactBtn">JuVoros</a>
             </section>
             <section className="ResumeCard">
                 <h3 className="ContactTitle">Email</h3>
-                <img src={Email} alt="Email Logo"/>
+                <img src="./images/email.png" alt="Email Logo"/>
                 <a href="mailto:JulianVoros@Hotmail.com," className="ContactBtn">JulianVoros@Hotmail.com</a>
             </section>
             <section className="PCard">
                 <h3 className="ContactTitle">linkedIn</h3>
-                <img src={Linked} alt="LinkedIn Logo"/>
+                <img src="./images/linkedIn.png" alt="LinkedIn Logo"/>
                 <a href="https://www.linkedin.com/in/julian-voros-061b08217/" className="ContactBtn">Julian Voros</a>
             </section>
             </div>

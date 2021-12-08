@@ -20,7 +20,7 @@ const Portfolio = () => {
           <section className="PCard">
             <h3 className="PCardTitle">Coder Mingle</h3>
             <img
-              src={Cinder}
+              src="./images/Cinder.png"
               className="PImage"
               alt="Screenshot of my Coder Dating App"
             />
@@ -42,7 +42,7 @@ const Portfolio = () => {
           <section className="PCard">
             <h3 className="PCardTitle">Fitness Tracker</h3>
             <img
-              src={Fitness}
+              src="./images/fitnessTracker.png"
               className=" PImage"
               alt="Screenshot of my Fitness Tracker Site"
             />
@@ -64,7 +64,7 @@ const Portfolio = () => {
           <section className="PCard">
             <h3 className="PCardTitle">Budget Tracker</h3>
             <img
-              src={Budget}
+              src="./images/jv-budget-tracker.herokuapp.com_.png"
               className="PImage"
               alt="Screenshot of my Budget Tracker App"
             />
@@ -86,7 +86,7 @@ const Portfolio = () => {
           <section className="PCard">
             <h3 className="PCardTitle">Day Planner</h3>
             <img
-              src={scheduler}
+              src="./images/scheduler.png"
               className="PImage"
               alt="Screenshot of my Day Planner App"
             />
@@ -108,7 +108,7 @@ const Portfolio = () => {
           <section className="PCard">
             <h3 className="PCardTitle">Note Taker</h3>
             <img
-              src={Notes}
+              src="./images/the-jv-note-taker.herokuapp.com_.png"
               className="PImage"
               alt="Screenshot of my Note Taker App"
             />
@@ -130,7 +130,7 @@ const Portfolio = () => {
           <section className="PCard">
             <h3 className="PCardTitle">Recipe Builder</h3>
             <img
-              src={Recipe}
+              src="./images/recipebuilder.github.io_recipe-builder_.png"
               className="PImage"
               alt="Screenshot of my Recipe Builder App"
             />
